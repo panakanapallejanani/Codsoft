@@ -1,0 +1,44 @@
+
+# CodSoft Internship - Java Development
+
+## Intern Details
+- Name: P. Janani
+- Internship Domain: Java Development
+- Organization: CodSoft
+
+## Task Title
+Student Grade Calculator
+
+## Task Description
+This task is a console-based Java application that calculates the total marks, average percentage, and grade of a student based on the marks entered for different subjects.
+
+The user inputs marks for multiple subjects, and the program computes:
+- Total Marks
+- Average Percentage
+- Grade based on percentage
+
+The application demonstrates the use of basic Java concepts and logical implementation.
+
+## Features
+- Accepts marks input for multiple subjects
+- Calculates total marks
+- Computes average percentage
+- Assigns grade based on performance
+- Displays final result clearly
+
+## Technologies Used
+- Java
+- JDK (Java Development Kit)
+- Console Interface
+
+## Concepts Used
+- Variables and Data Types
+- Arithmetic Operations
+- Conditional Statements (if-else)
+- Loops
+- Scanner Class
+
+
+
+## Author
+P. Janani
