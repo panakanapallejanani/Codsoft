@@ -1,0 +1,35 @@
+# CodSoft Internship - Java Development
+
+## Intern Details
+- Name: P. Janani
+- Internship Domain: Java Development
+- Organization: CodSoft
+
+## Task Title
+Number Guessing Game
+
+## Task Description
+This task is a console-based Java application where the system generates a random number between 1 and 100, and the user tries to guess it. The program provides hints such as "Too High" or "Too Low" after each attempt until the correct number is guessed. The total number of attempts taken by the user is displayed at the end.
+
+## Features
+- Random number generation
+- User input through console
+- Hint-based feedback (Too High / Too Low)
+- Attempt counter
+- Simple and interactive gameplay
+
+## Technologies Used
+- Java
+- JDK (Java Development Kit)
+- Console Interface
+
+## Concepts Used
+- Variables and Data Types
+- Loops (while / do-while)
+- Conditional Statements (if-else)
+- Scanner Class
+- Random Class
+
+
+## Author
+P. Janani
