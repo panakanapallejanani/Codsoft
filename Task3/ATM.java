@@ -60,4 +60,5 @@ class ATM {
     private void checkBalance() {
         System.out.println("Current Balance: " + account.getBalance());
     }
+
 }
