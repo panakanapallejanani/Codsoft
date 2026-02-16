@@ -1,0 +1,40 @@
+# CodSoft Internship - Java Development
+
+## Intern Details
+- Name: P. Janani
+- Internship Domain: Java Development
+- Organization: CodSoft
+
+## Task Title
+ATM Interface
+
+## Task Description
+This task is a console-based Java application that simulates the working of an ATM machine. 
+
+The program allows the user to perform basic banking operations such as checking account balance, depositing money, and withdrawing money. The system updates the balance after each transaction and ensures that withdrawal is allowed only if sufficient balance is available.
+
+This project demonstrates object-oriented programming concepts and real-world application logic using Java.
+
+## Features
+- Check account balance
+- Deposit money
+- Withdraw money
+- Validates sufficient balance before withdrawal
+- Menu-driven interface
+- Continuous transaction option until user exits
+
+## Technologies Used
+- Java
+- JDK (Java Development Kit)
+- Console Interface
+
+## Concepts Used
+- Classes and Objects
+- Variables and Data Types
+- Conditional Statements (if-else / switch)
+- Loops (while / do-while)
+- Scanner Class
+- Basic Banking Logic Implementation
+
+## Author
+P. Janani
