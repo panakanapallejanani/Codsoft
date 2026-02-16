@@ -50,4 +50,5 @@ class NumberGame {
         System.out.println("\nThanks for playing! Final Score: " + score);
         sc.close();
     }
+
 }
